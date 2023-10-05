@@ -1,0 +1,243 @@
+---
+# title: "Capacitación en R y herramientas de productividad"
+# author: "Abril 2021"
+format:
+  revealjs:
+    auto-stretch: false
+    margin: 0
+    slide-number: true
+    scrollable: true
+    preview-links: auto
+    logo: imagenes/logo_portada2.png
+    css: ine_quarto_styles.css
+    # footer: <https://quarto.org>
+---
+
+#
+
+<!---
+# TODO: this does not work
+ .linea-superior[]
+.linea-inferior[] 
+--->
+
+<!---
+# TODO: this does not work
+ ![](imagenes/logo_portada2.png){.center style="width: 20%;"}   
+--->
+
+[]{.linea-superior} 
+[]{.linea-inferior} 
+
+<!---
+ <img src="imagenes/logo_portada2.png" style="width: 20%"/>  
+--->
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+[**Inducción PCD**]{.big-par .center-justified}
+
+[**Capacitaciones en R y herramientas de productividad y clases abiertas**]{.big-par .center-justified}
+
+[**Octubre 2023**]{.big-par .center-justified}
+
+
+## Contenidos
+
+<br/>
+<br/>
+
+::: {.incremental  .big-par}
+
+- Capacitaciones en R y herramientas de productividad
+
+- Clases abiertas en tópidos intermedios
+
+- Capsulas básicas en R
+
+:::
+
+
+## Capacitaciones en R 
+
+::: {.incremental  .big-par}
+
+- La irrupción de R en el INE es medianamente reciente
+
+- Hasta el 2018 los *softwares* de cabecera eran Stata y Spss
+
+- Inician el año 2020, en contexto de pandemia, bajo el marco del PE Servicios Compartidos
+
+- El formato inicial fue 100% telemático
+
+- La primera capacitación se hizo al Subdepto de Demografía
+
+- Fue en contexto de una auditoría a ese Subdepto que presentaba gran retraso en herramientas de programación
+
+- Esta primera capacitación incluia 10 sesiones (*zero to hero*)
+
+- Se replanteó el ciclo básico para desarrollarse en 6 sesiones
+
+:::
+
+<!---
+![](imagenes/dia_3.JPG){.r-stretch}
+--->
+
+<!---
+ ![](imagenes/overview-mode.png){.border} 
+--->
+
+<!---
+ ::: {.r-fit-text}
+Big Text
+::: 
+--->
+
+## Capacitaciones en R 
+
+::: {.incremental  .big-par}
+
+- Durante el 2023 se crean los ciclos intermedios
+
+- Se realizaron 2 pilotos antes de la primera versión oficial
+
+- En básico e intermedio se usó una metodología de cascada capacitando a monitores
+
+- Hemos capacitado a personas de SDT, SDO, DMIE, SDA, DN, regiones y externos del SEN
+
+- Alto foco en herramientas para la producción estadística
+
+:::
+
+## Repos y contenidos capacitaciones R
+
+<br/>
+
+Todos los repos son públicos:
+
+<br/>
+
+[Capacitacion-R-basico](https://github.com/Capacitacion-R-basico)
+
+[clases-r-intermedio](https://github.com/clases-r-intermedio)
+
+
+## Beneficiarios
+
+![](imagenes/teams-1.JPG)
+
+![](imagenes/teams-2.JPG)
+
+## Beneficiarios
+
+<br/>
+
+::: {.incremental  .big-par}
+
+- Hemos capacitado a 218 personas 😱
+
+- y seguimos! 💪
+
+- Ha sido un aporte importante a la institución, sin duda ha valido la pena
+
+:::
+
+## Clases abiertas sobre tópicos intermedios
+
+::: {.incremental  .big-par}
+
+- La primera se realizó el 30 de mayo del 2023
+
+- La idea surgió desde el equipo (klaus)
+
+- Inicialmente la idea era generar módulos para las clases intermedias
+
+- No pensábamos que fuera a tener un gran impacto
+
+- Para la primera clase tuvimos ~5000 inscritos 😱
+
+- Durante la primera clase alcanzamos ~2000 usuarios/as concurrentes
+
+:::
+
+## Clases abiertas sobre tópicos intermedios
+
+
+![](imagenes/topicos-intermedios.JPG)
+
+[web-topicos-intermedios](http://localhost:3859/#/clases-abiertas-sobre-t%C3%B3picos-intermedios-1)
+
+<br/>
+
+## Clases abiertas sobre tópicos intermedios
+
+<br/>
+
+Temas tratados:
+
+::: {.incremental  .big-par}
+
+- R y bases de datos (Klaus)
+
+- Introducción a Shiny (Ricardo)
+
+- Herramientas de reproducibilidad en R (Ignacio)
+
+- Procesamiento de lenguaje natural en R (Klaus)
+
+- (*Comming soon*) Git para usuarios de R (Juane)
+
+- ¿Qué más se les ocurre? 👀 ¿se animan?
+
+:::
+
+## Cápsulas R básico
+
+::: {.incremental  .big-par}
+
+- A los cursos intermedios se inscribió mucha gente sin conocimientos en R
+
+- Surgió la demanda por clases de R básico
+
+- Aprovechamos el material básico que teníamos y generamos cápsulas
+
+- Juane, Klaus y Ricardo generaron el material y grabaron los videos
+
+- Aprendimos a editar video y audio para hacerlo autónomamente 💪
+
+- Generamos 16 cápsulas de pocos minutos
+
+- "Aprende R en pocos minutos con el INE"
+
+- Actualmente estamos en plena campaña de lanzamiento en RRSS (si lo ven compartan)
+
+:::
+
+## Cápsulas R básico
+
+![](imagenes/r-basico.JPG)
+
+[Capsulas R básico](https://www.ine.gob.cl/ine-educa/clases-r/capsulas-basicas/introduccion-al-uso-de-r)
+
+## Qué más podemos hacer
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+                                                             👀
+
+---
+
+<img src="imagenes/logo_portada2.png" width="20%"/>  
+
+[**Inducción PCD**]{.big-par .center-justified}
+
+[**Capacitaciones en R y herramientas de productividad y clases abiertas**]{.big-par .center-justified}
+
+[**Octubre 2023**]{.big-par .center-justified}
